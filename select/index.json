@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロックバンド症候群",
+  "base_artist": "Blue Mash",
+  "createdAt": "2025-12-14T16:22:31.756884Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックバンド症候群",
+      "artist": "Blue Mash",
+      "has_synced": false,
+      "path": "select/pl_01_ロックバンド症候群_Blue_Mash.txt"
+    }
+  ]
+}
